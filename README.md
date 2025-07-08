@@ -63,6 +63,22 @@ To tackle this, the project includes:
 ## 📽️ Video Explanation
 
 [🔗 Add Your YouTube/Drive Link Here]
+🔹 Confusion Matrix:
+[[ 86   1]
+ [ 10 100]]
+
+🔹 Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.90      0.99      0.94        87
+           1       0.99      0.91      0.95       110
+
+    accuracy                           0.94       197
+   macro avg       0.94      0.95      0.94       197
+weighted avg       0.95      0.94      0.94       197
+
+🔹 Accuracy Score: 0.9441624365482234
+🔹 ROC AUC Score: 0.9487983281086729
 
 ---
 
