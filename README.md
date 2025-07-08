@@ -73,15 +73,6 @@ To tackle this, the project includes:
 
 
 ## 🙌 Acknowledgment
-This project was completed under the **CodeClause Internship – July 2025**.
-CodeClauseInternship_CreditCardFraudDetection/
-│
-├── main.ipynb # Jupyter notebook containing the entire project code
-├── requirements.txt # List of all Python dependencies
-├── README.md # Project documentation (this file)
-├── data/
-│ └── creditcard.csv # Credit card fraud dataset (from Kaggle)
----
 
 ## 📬 Connect With Me
 **Ishwar Singh Sisodiya**  
