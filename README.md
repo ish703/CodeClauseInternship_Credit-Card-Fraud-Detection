@@ -10,6 +10,11 @@ It aims to detect fraudulent credit card transactions using machine learning tec
 To detect fraudulent transactions in a credit card dataset using classification models and data balancing techniques.
 
 ---
+## 🧠 Problem Statement
+- Fraudulent transactions are rare and hard to detect.
+- The dataset contains 284,807 transactions with only 492 fraud cases.
+- The challenge is to identify frauds without getting misled by the class imbalance.
+
 
 ## 📄 Description
 
@@ -65,4 +70,22 @@ To tackle this, the project includes:
 [🔗 Add Your YouTube/Drive Link Here]
 
 ## 📌 Project Structure
+
+
+## 🙌 Acknowledgment
+This project was completed under the **CodeClause Internship – July 2025**.
+CodeClauseInternship_CreditCardFraudDetection/
+│
+├── main.ipynb # Jupyter notebook containing the entire project code
+├── requirements.txt # List of all Python dependencies
+├── README.md # Project documentation (this file)
+├── data/
+│ └── creditcard.csv # Credit card fraud dataset (from Kaggle)
+---
+
+## 📬 Connect With Me
+**Ishwar Singh Sisodiya**  
+📧 Email: sisodiyaishwarsingh923@gmail.com
+🔗 LinkedIn: (http://www.linkedin.com/in/ishwarsinghsisodiya)
+
 
