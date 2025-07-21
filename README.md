@@ -1,6 +1,5 @@
 # 💳 Credit Card Fraud Detection
-
-This project was developed as part of the **CodeClause Internship**.  
+ 
 It aims to detect fraudulent credit card transactions using machine learning techniques on an imbalanced dataset.
 
 ---
