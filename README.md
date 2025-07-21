@@ -65,10 +65,6 @@ To tackle this, the project includes:
 
 ---
 
-## 📽️ Video Explanation
-
-[🔗 Add Your YouTube/Drive Link Here]
-
 ## 📬 Connect With Me
 **Ishwar Singh Sisodiya**  
 📧 Email: sisodiyaishwarsingh923@gmail.com
